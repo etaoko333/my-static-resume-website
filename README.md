@@ -73,5 +73,19 @@ Ensure your bucket policy allows public access to the files.
 You can automate the process further by integrating with CloudFront for CDN capabilities.
 This setup will allow you to automatically deploy your resume website to S3 whenever you push changes to the GitHub repository.
 
-<img width="960" alt="2025-01-02 (7)" src="https://github.com/user-attachments/assets/885291aa-47d6-44f4-85fe-3794ce0a26b8<img width="960" alt="2025-01-02 (8)" src="https://github.com/user-attachments/assets/1d8dbc56-9320-4aea-ad66-abc394bc0645" />
-" />
+
+
+<img width="960" alt="2025-01-02 (3)" src="https://github.com/user-attachments/assets/2be6035a-bc00-414d-8b6e-9beec35c0cc7" />
+
+
+<img width="960" alt="2025-01-02 (4)" src="https://github.com/user-attachments/assets/3738a220-1ad3-4065-8de5-b78da5dbb34f" />
+
+
+
+<img width="960" alt="2025-01-02 (2)" src="https://github.com/user-attachments/assets/ecd07c85-7c3e-434a-b27f-b1e009e3db10" />
+
+<img width="960" alt="2025-01-02 (5)" src="https://github.com/user-attachments/assets/c55c188c-e4df-42dc-a090-7afc8cd45e0b" />
+
+
+<img width="960" alt="2025-01-02 (7)" src="https://github.com/user-attachments/assets/185aecfd-81d1-49e3-85ef-414d3ca7e567" />
+
